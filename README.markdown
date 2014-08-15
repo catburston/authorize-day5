@@ -1,5 +1,5 @@
 # Authorize App (based on Projects and Tasks App)
-
+# Cat Burston, based on files from Andreas Finger
 ## How to install
 Clone, bundle, create (postgres) database, migrate, seed --> ready to rumble!
 
